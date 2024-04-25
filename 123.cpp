@@ -1,2 +1,0 @@
-#include <iostream>
-thu nghiem
